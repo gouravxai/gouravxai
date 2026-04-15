@@ -75,7 +75,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravxai&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ## 🏆 Achievements & Goals
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gouravxai&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 * 🚀 Building strong ML portfolio

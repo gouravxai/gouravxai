@@ -21,9 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,mysql,git" />
-
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git" />
 </p>
 
 <p align="center">
@@ -32,6 +30,14 @@
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge">
 </p>
+
+---
+
+## 📊 Core Skills
+
+* Machine Learning (Regression, Classification)
+* Data Analysis & Visualization
+* Feature Engineering & Model Evaluation
 
 ---
 
@@ -48,6 +54,7 @@
 
 🔹 Classification model to predict churn
 🔹 Data preprocessing, encoding, scaling
+
 ---
 
 ### 🎯 Recommendation System *(In Progress)*

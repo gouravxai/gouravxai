@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git" />
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github" />
 </p>
 
 <p align="center">
@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter">
 </p>
 
 ---
@@ -38,6 +41,7 @@
 * Machine Learning (Regression, Classification)
 * Data Analysis & Visualization
 * Feature Engineering & Model Evaluation
+* Model Deployment using Streamlit
 
 ---
 
@@ -45,28 +49,30 @@
 
 ### 🏠 House Price Prediction
 
-🔹 Regression model for predicting housing prices
-🔹 Feature engineering + model evaluation
+🔹 Built a regression model to predict housing prices
+🔹 Applied feature engineering and data preprocessing
+🔹 Evaluated performance using ML metrics
 
 ---
 
 ### 📉 Customer Churn Prediction
 
-🔹 Classification model to predict churn
-🔹 Data preprocessing, encoding, scaling
+🔹 Developed a classification model to predict customer churn
+🔹 Worked on data cleaning, encoding, and scaling
+🔹 Improved prediction accuracy using ML techniques
 
 ---
 
 ### 🎯 Recommendation System *(In Progress)*
 
-🔹 Personalized recommendation engine
-🔹 Collaborative / Content-based filtering
+🔹 Building a personalized recommendation engine
+🔹 Using collaborative/content-based filtering
 
 ---
 
 ### 🧠 Deep Learning *(Coming Soon)*
 
-🔹 Neural networks for real-world datasets
+🔹 Will implement neural networks on real-world datasets
 
 ---
 
@@ -93,9 +99,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gouravxai&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-* 🚀 Building strong ML portfolio
-* 🧠 Moving into Deep Learning
-* 📊 Focused on real-world datasets
+* 🚀 Building a strong ML portfolio
+* 🧠 Transitioning into Deep Learning
+* 📊 Working with real-world datasets
 
 ---
 

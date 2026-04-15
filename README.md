@@ -49,30 +49,30 @@
 
 ### 🏠 House Price Prediction
 
-🔹 Built a regression model to predict housing prices
-🔹 Applied feature engineering and data preprocessing
-🔹 Evaluated performance using ML metrics
+* Built a regression model to predict housing prices
+* Applied feature engineering and data preprocessing
+* Evaluated performance using ML metrics
 
 ---
 
 ### 📉 Customer Churn Prediction
 
-🔹 Developed a classification model to predict customer churn
-🔹 Worked on data cleaning, encoding, and scaling
-🔹 Improved prediction accuracy using ML techniques
+* Developed a classification model to predict customer churn
+* Worked on data cleaning, encoding, and scaling
+* Improved prediction accuracy using ML techniques
 
 ---
 
 ### 🎯 Recommendation System *(In Progress)*
 
-🔹 Building a personalized recommendation engine
-🔹 Using collaborative/content-based filtering
+* Building a personalized recommendation engine
+* Using collaborative/content-based filtering
 
 ---
 
 ### 🧠 Deep Learning *(Coming Soon)*
 
-🔹 Will implement neural networks on real-world datasets
+* Will implement neural networks on real-world datasets
 
 ---
 

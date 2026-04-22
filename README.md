@@ -70,12 +70,6 @@
 
 ---
 
-### 🧠 Deep Learning *(Coming Soon)*
-
-* Will implement neural networks on real-world datasets
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

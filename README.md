@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real+World+Projects;Future+ML+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Practitioner;Building+Real+World+ML+Systems;Focused+on+Execution+%26+Projects;Future+ML+Engineer&center=true&width=520&height=45">
 </p>
 
 ---
@@ -10,11 +10,11 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🔭 Currently working on **Machine Learning Projects**
-* 🌱 Learning **Deep Learning & Advanced ML**
-* 📊 Passionate about **Data-driven problem solving**
-* ⚡ Building projects consistently & improving daily
-* 🎯 Goal: Become a **Data Scientist / ML Engineer**
+- 🔭 Building **real-world ML systems with practical use-cases**
+- ⚡ Strong focus on **execution, not just theory**
+- 📊 Skilled in **data preprocessing, feature engineering & model building**
+- 🧪 Working with **real datasets & problem statements**
+- 🎯 Goal: Become a **Machine Learning Engineer**
 
 ---
 
@@ -38,35 +38,35 @@
 
 ## 📊 Core Skills
 
-* Machine Learning (Regression, Classification)
-* Data Analysis & Visualization
-* Feature Engineering & Model Evaluation
-* Model Deployment using Streamlit
+- Machine Learning (Regression, Classification)
+- Data Analysis & Visualization
+- Feature Engineering & Model Evaluation
+- Model Deployment (Streamlit)
+- End-to-End Project Development
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🏠 House Price Prediction
+### 📊 Trader Sentiment Analysis System
+- Built a system to analyze **market sentiment from textual data**
+- Applied **NLP techniques** for sentiment extraction
+- Designed with a **real-world trading perspective**
+- Focused on **practical implementation over theory**
 
-* Built a regression model to predict housing prices
-* Applied feature engineering and data preprocessing
-* Evaluated performance using ML metrics
+---
+
+### 🏠 House Price Prediction (Advanced Version)
+- Built an improved version with **better feature engineering & preprocessing**
+- Applied optimized regression techniques
+- Focused on **improving prediction accuracy & pipeline quality**
 
 ---
 
 ### 📉 Customer Churn Prediction
-
-* Developed a classification model to predict customer churn
-* Worked on data cleaning, encoding, and scaling
-* Improved prediction accuracy using ML techniques
-
----
-
-### 🎯 Recommendation System *(In Progress)*
-
-* Building a personalized recommendation engine
-* Using collaborative/content-based filtering
+- Developed classification model to predict churn
+- Performed **data cleaning, encoding & scaling**
+- Improved results through **model tuning & evaluation**
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravxai&theme=tokyo-night&hide_border=true"/>
@@ -87,15 +87,11 @@
 
 ---
 
-## 🏆 Achievements & Goals
+## 🏆 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouravxai&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-* 🚀 Building a strong ML portfolio
-* 🧠 Transitioning into Deep Learning
-* 📊 Working with real-world datasets
+- 🚀 Building stronger ML systems through projects
+- 🧠 Moving into Deep Learning
+- 📊 Creating deployable, real-world applications
 
 ---
 
@@ -108,10 +104,13 @@
   <a href="https://github.com/gouravxai">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
+  <a href="https://www.linkedin.com/in/gourav-sharma-504906235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>"Turning data into decisions."</b>
+  ⭐ <b>"I don't just learn ML — I build systems."</b>
 </p>

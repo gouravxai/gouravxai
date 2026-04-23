@@ -110,7 +110,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ⭐ <b>"I don't just learn ML — I build systems."</b>
-</p>

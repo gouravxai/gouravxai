@@ -1,112 +1,96 @@
-<h1 align="center">Hi 👋, I'm Gourav Sharma</h1>
+<h1 align="center">Gourav Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Practitioner;Building+Real+World+ML+Systems;Focused+on+Execution+%26+Projects;Future+ML+Engineer&center=true&width=520&height=45">
+Machine Learning Practitioner • Building End-to-End ML Systems • Transitioning into Deep Learning
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I focus on building **practical machine learning systems**—not just training models, but designing complete pipelines from **data preprocessing to deployment**.
 
-- 🔭 Building **real-world ML systems with practical use-cases**
-- ⚡ Strong focus on **execution, not just theory**
-- 📊 Skilled in **data preprocessing, feature engineering & model building**
-- 🧪 Working with **real datasets & problem statements**
-- 🎯 Goal: Become a **Machine Learning Engineer**
+* Strong in **data preprocessing, feature engineering, and model evaluation**
+* Experience with **real-world datasets and problem statements**
+* Currently moving into **Deep Learning (LSTM, GRU, Transformers)**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github" />
-</p>
+**Languages & Tools**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn">
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit">
-<img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter">
-</p>
+* Python, C++, SQL
+* Git, GitHub
+
+**ML & Data**
+
+* Pandas, NumPy, Scikit-learn
+* Matplotlib, Seaborn
+* Streamlit (deployment)
+* Jupyter Notebook
 
 ---
 
-## 📊 Core Skills
+## Projects
 
-- Machine Learning (Regression, Classification)
-- Data Analysis & Visualization
-- Feature Engineering & Model Evaluation
-- Model Deployment (Streamlit)
-- End-to-End Project Development
+### Trader Sentiment Analysis System
 
----
-
-## 🚀 Projects
-
-### 📊 Trader Sentiment Analysis System
-- Built a system to analyze **market sentiment from textual data**
-- Applied **NLP techniques** for sentiment extraction
-- Designed with a **real-world trading perspective**
-- Focused on **practical implementation over theory**
+* Built an NLP-based system to analyze **market sentiment from text data**
+* Implemented preprocessing pipeline: **cleaning, tokenization, vectorization**
+* Designed for **real-world trading perspective**, not just benchmark accuracy
+* Focus: extracting actionable insights from unstructured data
 
 ---
 
-### 🏠 House Price Prediction (Advanced Version)
-- Built an improved version with **better feature engineering & preprocessing**
-- Applied optimized regression techniques
-- Focused on **improving prediction accuracy & pipeline quality**
+### House Price Prediction (Advanced)
+
+* Developed a regression pipeline with **enhanced feature engineering**
+* Applied preprocessing techniques: **handling missing values, encoding, scaling**
+* Improved model performance through **feature selection and tuning**
+* Focus: building a **clean and optimized ML pipeline**
 
 ---
 
-### 📉 Customer Churn Prediction
-- Developed classification model to predict churn
-- Performed **data cleaning, encoding & scaling**
-- Improved results through **model tuning & evaluation**
+### Customer Churn Prediction
+
+* Built a classification model to predict **customer retention risk**
+* Performed **data cleaning, encoding, and normalization**
+* Evaluated using **accuracy and performance metrics**
+* Focus: understanding **business impact of predictions**
 
 ---
 
-## 📊 GitHub Stats
+## Core Strengths
+
+* End-to-End ML Pipeline Development
+* Feature Engineering & Data Handling
+* Model Evaluation & Improvement
+* Practical Problem Solving
+* Deployment using Streamlit
+
+---
+
+## Current Focus
+
+* Deep Learning (LSTM, GRU → Transformers next)
+* Building more **production-like ML systems**
+* Improving **model performance + system design thinking**
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gouravxai&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravxai&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📈 Activity
+## Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravxai&theme=tokyo-night&hide_border=true"/>
+  <a href="mailto:gouravsharma4406@gmail.com">Email</a> •
+  <a href="https://github.com/gouravxai">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gourav-sharma-504906235/">LinkedIn</a>
 </p>
-
----
-
-## 🏆 Current Focus
-
-- 🚀 Building stronger ML systems through projects
-- 🧠 Moving into Deep Learning
-- 📊 Creating deployable, real-world applications
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:gouravsharma4406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/gouravxai">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/gourav-sharma-504906235/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----

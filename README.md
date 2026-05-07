@@ -86,12 +86,6 @@ Exploratory data analysis and insights on various datasets with polished visuali
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravxai&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 Open to:

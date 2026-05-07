@@ -36,9 +36,3 @@ I build **end-to-end ML systems** with a focus on **Financial Intelligence**. I 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-
-###  GitHub Activity
-![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravxai&show_icons=true&theme=transparent&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravxai&layout=compact&theme=transparent&border_radius=10)
-
----

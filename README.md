@@ -1,39 +1,45 @@
 # Gourav Sharma
+### **Machine Learning Engineer | Financial AI & Deep Learning**
 
-Machine Learning · Deep Learning · Finance × AI
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gouravsharma4406@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sharma-504906235/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gouravxai)
-
----
-
-## About
-
-I build end-to-end ML systems — not just notebooks. I also trade stocks actively, so most of my projects live at the intersection of **finance and machine learning**.
-
-Currently deep in neural networks. Just shipped ANN vs CNN from scratch in PyTorch. Next: LSTMs → Transformers.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sharma-504906235/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravsharma4406@gmail.com) 
 
 ---
 
-## Projects
+### 🧠 Perspective
+I build **end-to-end ML systems** with a focus on **Financial Intelligence**. I specialize in moving models out of notebooks and into functional pipelines. As an active stock trader, I develop tools that bridge the gap between raw market data and actionable sentiment/price insights.
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [ANN vs CNN — PyTorch](https://github.com/gouravxai/ANN-VS-CNN-PYTORCH) | Compared both from scratch on MNIST. CNN: 99.05%, ANN: 97.69% | PyTorch, NumPy |
-| [TimelineViz](https://github.com/gouravxai/timelineviz) | Chunks long text and plots sentiment flow interactively — hover to see what caused each emotion shift | VADER, Plotly |
-| [Trader Sentiment Analysis](https://github.com/gouravxai/trader-sentiment-analysis) | NLP pipeline extracting market sentiment from trader discussions | NLTK, Scikit-learn |
-| [Emotion Detection](https://github.com/gouravxai/emotion-detection-analysis) | BoW vs TF-IDF + Naive Bayes for text emotion classification | Scikit-learn, NLTK |
-| [House Price Regression](https://github.com/gouravxai/House-Price-Advanced-Regression) | Advanced regression with feature engineering on Kaggle dataset | XGBoost, Pandas |
-| [EDA & Visualisation](https://github.com/gouravxai/eda-visualisation-projects) | Exploratory analysis across multiple real-world datasets | Matplotlib, Seaborn |
+*   **Current Deep Dive:** Implementing Sequence Models (LSTMs) and Transformers for time-series forecasting.
+*   **Focus Areas:** Deep Learning, NLP for Finance, and Advanced Regression.
 
 ---
 
-## Tech Stack
+### 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+| Project | Impact & Results | Stack |
+| :--- | :--- | :--- |
+| **[ANN vs CNN Performance](https://github.com/gouravxai/ANN-VS-CNN-PYTORCH)** | Benchmarked DL architectures from scratch. Achieved **99.05% accuracy** with CNN vs 97.69% with ANN. | PyTorch, NumPy |
+| **[TimelineViz](https://github.com/gouravxai/timelineviz)** | Interactive sentiment flow mapping. Chunks long-form text to visualize emotional shifts over time. | VADER, Plotly |
+| **[Trader Sentiment Analysis](https://github.com/gouravxai/trader-sentiment-analysis)** | NLP pipeline designed to extract alpha from market discussions and quantify trader bias. | NLTK, Scikit-learn |
+| **[House Price Regression](https://github.com/gouravxai/House-Price-Advanced-Regression)** | Advanced feature engineering (Log Transforms) and ensemble modeling for high-precision valuation. | XGBoost, Pandas |
+| **[Emotion Detection](https://github.com/gouravxai/emotion-detection-analysis)** | Comparative analysis of BoW vs TF-IDF + Naive Bayes for high-speed text classification. | Scikit-learn, NLTK |
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Core Intelligence**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Engineering & Viz**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Activity
+![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravxai&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravxai&layout=compact&theme=transparent&hide_border=true)
+
+---

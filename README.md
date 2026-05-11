@@ -18,7 +18,7 @@ I build **end-to-end ML systems** with a focus on **Financial Intelligence**. I 
 | Project | Impact & Results | Stack |
 | :--- | :--- | :--- |
 | **[ANN vs CNN Performance](https://github.com/gouravxai/ANN-VS-CNN-PYTORCH)** | Benchmarked DL architectures from scratch. Achieved **99.05% accuracy** with CNN vs 97.69% with ANN. | PyTorch, NumPy |
-| **[TimelineViz](https://github.com/gouravxai/timelineviz)** | Interactive sentiment flow mapping. Chunks long-form text to visualize emotional shifts over time. | VADER, Plotly |
+| **[TimelineViz](https://github.com/gouravxai/TimeLineViz-using-CNN-and-BiLSTM)** | Interactive sentiment flow mapping. Chunks long-form text to visualize emotional shifts over time. | VADER, Plotly |
 | **[Trader Sentiment Analysis](https://github.com/gouravxai/trader-sentiment-analysis)** | NLP pipeline designed to extract alpha from market discussions and quantify trader bias. | NLTK, Scikit-learn |
 | **[House Price Regression](https://github.com/gouravxai/House-Price-Advanced-Regression)** | Advanced feature engineering (Log Transforms) and ensemble modeling for high-precision valuation. | XGBoost, Pandas |
 

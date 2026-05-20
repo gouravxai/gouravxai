@@ -14,15 +14,8 @@ Mostly deep learning and NLP. I deploy things on Streamlit because it's fast. Ri
 
 ## Projects
 
-### PDF RAG Bot
-PDF ingestion + embeddings + retrieval. You throw documents at it, it answers questions with sources cited. Actual useful tool for document analysis.
-
-[Repo](https://github.com/gouravxai/DYNAMIC-PDF-RAG-BOT)
-
----
-
 ### AI Interview Coach  
-[Live demo](https://ai-interview-coach-pzmflblqnkpbcdf7ec8zmt.streamlit.app/)
+[Live demo](https://ai-interview-coach-pzmflblqnkpbcdf7ec8zmt.streamlit.app/) | [Repo](https://github.com/gouravxai/AI-INTERVIEW-COACH)
 
 Record yourself answering interview questions. Gets scored (0-10), detects filler words, gives feedback. Built this because every interview prep resource is either outdated videos or bad UI. Wanted actual real-time feedback.
 
@@ -33,7 +26,12 @@ Record yourself answering interview questions. Gets scored (0-10), detects fille
 
 Live and people use it. Works well.
 
-[Repo](https://github.com/gouravxai/AI-INTERVIEW-COACH)
+---
+
+### PDF RAG Bot
+[Live demo](https://dynamic-pdf-rag-bot-xsbozwiqebofdkwf8txbwk.streamlit.app/) | [Repo](https://github.com/gouravxai/DYNAMIC-PDF-RAG-BOT)
+
+PDF ingestion + embeddings + retrieval. You throw documents at it, it answers questions with sources cited. Actual useful tool for document analysis.
 
 ---
 
